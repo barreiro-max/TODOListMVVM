@@ -1,3 +1,10 @@
+# Project Status
+
+This is the initial version of the project (archived in terms of development).
+
+A significantly improved and actively maintained version:
+👉 https://github.com/barreiro-max/ToDoList
+
 # TODOListMVVM
 
 A simple TODO application built with **SwiftUI**, following the **MVVM** architecture, and using **SwiftData** as the primary data storage.  
